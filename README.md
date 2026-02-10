@@ -9,6 +9,7 @@ La clasificación de bosques nativos en zonas áridas requiere ir más allá de 
 
 - R (Lenguaje principal): Procesamiento de datos espaciales y modelado estadístico avanzado.
 - Librerías Clave: terra (Rasters), sf (Vectores), ranger (Random Forest), fastshap & shapviz (Interpretabilidad).
+- Python: Obtencion de productos auxiliares
 - Google Earth Engine (GEE): Preprocesamiento y obtención de métricas multitemporales.
 - QGIS / SAGA GIS: Cálculo de proxies topográficos avanzados.
 
